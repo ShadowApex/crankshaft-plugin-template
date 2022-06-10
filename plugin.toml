@@ -10,7 +10,7 @@ link = "TODO"
 [entrypoints]
 
 	[entrypoints.desktop]
-	library = false
+	library = true
 	menu = false
 
 	[entrypoints.deck]
